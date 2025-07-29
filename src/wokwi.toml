@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/IMU_SSD.uf2'
+elf = 'build/IMU_SSD.elf'
